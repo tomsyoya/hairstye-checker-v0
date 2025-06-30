@@ -12,7 +12,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
+Your project is live at:　テスト
 
 **[https://vercel.com/soya-sanos-projects/v0-hair-style-app-5u](https://vercel.com/soya-sanos-projects/v0-hair-style-app-5u)**
 
